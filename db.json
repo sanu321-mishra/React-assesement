@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userdetails": [
+    {
+     
+      "fname": "saurabh",
+      "mobile": "875353503878",
+      "email": "sanu@gmail.com"
+    },
+    {
+      
+      "fname": "aman",
+      "mobile": "7633980000652",
+      "email": "bihar@gmail.com"
+    },
+    {
+     
+      "fname": "pratima",
+      "mobile": "862928626",
+      "email": "kjsugsugsg@gmail.com"
+    },
+    {
+  
+      "fname": "mishra",
+      "mobile": "98765432208396",
+      "email": "hsuogsugs@gmail.com"
+    }
+  ]
+}
